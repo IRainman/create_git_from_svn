@@ -1,0 +1,2 @@
+HedgehogInTheFog = solomin <solomin@sbtcom.ru>
+VisualSVN Server = solomin <solomin@sbtcom.ru>
