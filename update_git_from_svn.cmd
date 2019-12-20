@@ -27,6 +27,8 @@ echo ===========================================================================
 
 git commit -am "Added .gitignore from SVN ignore"
 
+git svn dcommit
+
 echo ===============================================================================
 
 git push --set-upstream origin --all
